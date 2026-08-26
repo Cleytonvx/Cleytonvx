@@ -73,6 +73,6 @@ Busco minha primeira oportunidade de **estágio na área de Tecnologia**, onde p
 
 ## 📫 Contato
 
-📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
-💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/)
+📧 **E-mail:** [seuemail@email.com](https://mail.google.com/mail/u/0/#inbox)
+💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/cleyton-freitas-685916309/?isSelfProfile=true)
 💻 **GitHub:** [Cleytonvx](https://github.com/Cleytonvx)
