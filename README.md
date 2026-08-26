@@ -1,16 +1,78 @@
-## Hi there 👋
+# Olá! Eu sou Cleyton Rafael 👋
 
-<!--
-**Cleytonvx/Cleytonvx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Engenharia de Software** na Universidade Positivo
+💻 Interessado em **Programação, Desenvolvimento Web e Tecnologia**
+🐍 Atualmente estudando **Python e Lógica de Programação**
+🤖 Interesse e experiência prática com **Robótica e LEGO SPIKE Prime**
+🖥️ Conhecimentos em **Hardware, montagem e manutenção de computadores**
+🚀 Em busca de uma **oportunidade de estágio em Tecnologia**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 Sobre mim
+
+Sou estudante de Engenharia de Software e estou construindo minha carreira na área de Tecnologia.
+
+Tenho interesse principalmente em **desenvolvimento de software, programação e desenvolvimento Web**, buscando sempre transformar o que aprendo em projetos práticos.
+
+Também tenho experiência com atividades de **robótica e programação**, utilizando LEGO SPIKE Prime, além de conhecimentos em hardware e manutenção de computadores.
+
+Atualmente estou focado em evoluir meus conhecimentos e construir projetos para meu portfólio.
+
+---
+
+## 🛠️ Tecnologias e conhecimentos
+
+### Programação
+
+* Python
+* Lógica de programação
+
+### Desenvolvimento Web
+
+* HTML
+* CSS
+* JavaScript
+
+### Ferramentas
+
+* Git
+* GitHub
+* Figma
+
+### Outros
+
+* Hardware
+* Montagem e manutenção de computadores
+* Robótica
+* LEGO SPIKE Prime
+
+---
+
+## 🚀 Projetos
+
+### 🌐 Desenvolvimento Web
+
+Projetos de páginas e interfaces utilizando HTML, CSS e JavaScript.
+
+### 🐍 Projetos em Python
+
+Projetos desenvolvidos para praticar lógica de programação, estruturas de repetição, condicionais e resolução de problemas.
+
+### 🤖 Robótica
+
+Projetos utilizando LEGO SPIKE Prime, envolvendo programação, sensores, motores e resolução de problemas.
+
+---
+
+## 🎯 Objetivo
+
+Busco minha primeira oportunidade de **estágio na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e desenvolver experiência trabalhando em projetos reais.
+
+---
+
+## 📫 Contato
+
+📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
+💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/)
+💻 **GitHub:** [Cleytonvx](https://github.com/Cleytonvx)
