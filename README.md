@@ -1,78 +1,91 @@
 # Olá! Eu sou Cleyton Rafael 👋
 
-🎓 Estudante de **Engenharia de Software** na Universidade Positivo
-💻 Interessado em **Programação, Desenvolvimento Web e Tecnologia**
-🐍 Atualmente estudando **Python e Lógica de Programação**
-🤖 Interesse e experiência prática com **Robótica e LEGO SPIKE Prime**
-🖥️ Conhecimentos em **Hardware, montagem e manutenção de computadores**
-🚀 Em busca de uma **oportunidade de estágio em Tecnologia**
+🎓 Estudante de **Engenharia de Software** na Universidade Positivo  
+💻 Interessado em **Desenvolvimento de Software e Desenvolvimento Web**  
+🐍 Atualmente estudando **Python e Lógica de Programação**  
+🤖 Experiência prática com **Robótica e LEGO SPIKE Prime**  
+🖥️ Conhecimentos em **Hardware, montagem e manutenção de computadores**  
+🚀 Em busca da minha primeira **oportunidade de estágio em Tecnologia**
 
 ---
 
 ## 🧑‍💻 Sobre mim
 
-Sou estudante de Engenharia de Software e estou construindo minha carreira na área de Tecnologia.
+Sou estudante de **Engenharia de Software** e estou construindo minha carreira na área de Tecnologia.
 
-Tenho interesse principalmente em **desenvolvimento de software, programação e desenvolvimento Web**, buscando sempre transformar o que aprendo em projetos práticos.
+Tenho interesse em **programação, desenvolvimento de software e desenvolvimento Web**, buscando transformar os conhecimentos adquiridos durante meus estudos em soluções práticas.
 
-Também tenho experiência com atividades de **robótica e programação**, utilizando LEGO SPIKE Prime, além de conhecimentos em hardware e manutenção de computadores.
+Também possuo experiência com **robótica e programação utilizando LEGO SPIKE Prime**, trabalhando com sensores, motores, programação e resolução de problemas.
 
-Atualmente estou focado em evoluir meus conhecimentos e construir projetos para meu portfólio.
+Além do desenvolvimento de software, tenho conhecimentos em **hardware, montagem e manutenção de computadores**, o que me proporciona uma visão mais ampla sobre tecnologia.
+
+Atualmente, meu foco está em fortalecer minha base de programação, desenvolver meus primeiros projetos e evoluir continuamente minhas habilidades técnicas.
 
 ---
 
 ## 🛠️ Tecnologias e conhecimentos
 
-### Programação
+### 💻 Programação
+- Python
+- Lógica de programação
 
-* Python
-* Lógica de programação
+### 🌐 Desenvolvimento Web
+- HTML
+- CSS
+- JavaScript
 
-### Desenvolvimento Web
+### 🔧 Ferramentas
+- Git
+- GitHub
+- Figma
 
-* HTML
-* CSS
-* JavaScript
+### 🤖 Outros
+- Robótica
+- LEGO SPIKE Prime
+- Hardware
+- Montagem e manutenção de computadores
 
-### Ferramentas
+---
 
-* Git
-* GitHub
-* Figma
+## 📚 Atualmente estudando
 
-### Outros
-
-* Hardware
-* Montagem e manutenção de computadores
-* Robótica
-* LEGO SPIKE Prime
+- 🐍 Python
+- 🧠 Lógica de programação e resolução de problemas
+- 🌐 Desenvolvimento Web
+- 🔧 Git e GitHub
+- 💻 Desenvolvimento de projetos práticos
 
 ---
 
 ## 🚀 Projetos
 
-### 🌐 Desenvolvimento Web
+Estou atualmente desenvolvendo meus primeiros projetos para colocar em prática os conhecimentos adquiridos durante minha formação.
 
-Projetos de páginas e interfaces utilizando HTML, CSS e JavaScript.
+Meu objetivo é construir projetos envolvendo:
 
-### 🐍 Projetos em Python
+- 🌐 Desenvolvimento Web
+- 🐍 Python
+- 🤖 Robótica
+- 🧠 Lógica de programação
+- 💻 Desenvolvimento de software
 
-Projetos desenvolvidos para praticar lógica de programação, estruturas de repetição, condicionais e resolução de problemas.
-
-### 🤖 Robótica
-
-Projetos utilizando LEGO SPIKE Prime, envolvendo programação, sensores, motores e resolução de problemas.
+Novos projetos serão adicionados ao meu perfil conforme forem desenvolvidos.
 
 ---
 
 ## 🎯 Objetivo
 
-Busco minha primeira oportunidade de **estágio na área de Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais da área e desenvolver experiência trabalhando em projetos reais.
+Busco minha primeira oportunidade de **estágio em Tecnologia**, onde possa aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para projetos reais.
+
+Quero desenvolver minha experiência prática, aprimorar minhas habilidades técnicas e crescer profissionalmente na área de **desenvolvimento de software**.
 
 ---
 
 ## 📫 Contato
 
-📧 **E-mail:** [seuemail@email.com](https://mail.google.com/mail/u/0/#inbox)
-💼 **LinkedIn:** [Seu LinkedIn](https://www.linkedin.com/in/cleyton-freitas-685916309/?isSelfProfile=true)
+📧 **E-mail:** [seuemail@email.com](mailto:seuemail@email.com)
+
+💼 **LinkedIn:** [Cleyton Rafael](https://www.linkedin.com/in/cleyton-freitas-685916309/)
+
 💻 **GitHub:** [Cleytonvx](https://github.com/Cleytonvx)
+
