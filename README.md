@@ -1,4 +1,4 @@
-# Olá! Eu sou Cleyton Rafael 👋
+# Olá! Eu sou Cleyton Rafael 
 
 🎓 Estudante de **Engenharia de Software** na Universidade Positivo  
 💻 Interessado em **Desenvolvimento de Software e Desenvolvimento Web**  
